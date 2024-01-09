@@ -1,0 +1,6 @@
+{
+  "name": "Rust Transformer",
+  "dockerComposeFile": "../docker-compose.yaml",
+  "service": "transformer",
+  "workspaceFolder": "/app"
+}
